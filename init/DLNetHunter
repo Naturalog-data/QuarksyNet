@@ -1,0 +1,4 @@
+wget -O install-nethunter-termux https://offs.ec/2MceZWr
+chmod 777 install-nethunter-termux
+wget https://images.kali.org/nethunter/kalifs-arm64-full.tar.xz
+./install-nethunter-termux 
